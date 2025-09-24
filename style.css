@@ -42,4 +42,6 @@
 .promi{
     margin-left: 15px;
     margin-right: 15px;
+    border-radius: 20px;
+    padding: 5px;
 }
